@@ -1,4 +1,4 @@
-Small discription of Task:
+Small discription about Task:
 
 I created only one extra file provider.tf file for user details and rest all code present in main.tf not created any module for now.
 
